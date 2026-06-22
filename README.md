@@ -70,6 +70,8 @@ This dashboard provides business users with an interactive reporting solution fo
 This Power BI dashboard demonstrates how e-commerce sales data can be transformed into meaningful business insights through interactive reporting, KPI monitoring, and trend analysis. It highlights product performance, customer engagement, and category contribution, making it a useful project for showcasing data visualization, DAX, and reporting skills.
 ## Dashboard Preview
 
-### Overview Dashboard
-![Overview Dashboard]()
+
+### 	Screenshots / Demos
+Show what the dashboard looks like.
+Example: ![Dashboard Preview](https://github.com/Rojalinjena/Amazon-Sales-Dashboard-/blob/main/Amazon%20sales%20Dashbord.png)
 
